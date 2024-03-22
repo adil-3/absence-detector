@@ -1,0 +1,3 @@
+MSG_OBJECT_LEFT = 'NO PERSON HAS BEEN DETECTED IN {} MINUTES'
+
+MSG_OBJECT_RETURNED = 'Object has returned to the zone.'

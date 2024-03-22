@@ -1,0 +1,4 @@
+ultralytics>=8.1.0
+lapx>=0.5.2
+sixel
+telebot
